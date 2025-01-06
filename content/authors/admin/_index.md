@@ -3,7 +3,7 @@
 title: Dr. Libuše Hannah Vepřek M.Sc
 
 # Name pronunciation (optional)
-name_pronunciation: 'lɪbʊʃɛ Hannah ˈvɛpr̝̊ɛk
+name_pronunciation: "[lɪbʊʃɛ Hannah ˈvɛpr̝̊ɛk]"
 
 # Full name (for SEO)
 first_name: Libuše Hannah
