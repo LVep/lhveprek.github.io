@@ -33,9 +33,9 @@ profiles:
     url: 'mailto:libuse.veprek@uni-tuebingen.de'
     label: E-mail Me
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=lOHYMTIAAAAJ&hl=de&oi=ao
-#  - icon: academicons/orcid
-#    url: https://orcid.org/0000-0002-0672-6633
+    url: 'https://scholar.google.com/citations?user=lOHYMTIAAAAJ&hl=de&oi=ao'
+  - icon: academicons/orcid
+    url: 'https://orcid.org/0000-0002-0672-6633'
 
  interests:
    - Science and Technology Studies
@@ -53,13 +53,13 @@ profiles:
        Thesis on how human computation systems in the field of citizen science are formed in the interplay of various actors—such as developers, designers, researchers, and users—, in particular, how their human-technology relations unfold and continuously evolve alongside technological developments. Based on collaborative and ethnographic research I developed the analytical and reflective concept of intraversions for studying human-AI systems and to steer their development in directions that are beneficial to society. Published as "At the Edge of AI. Human Computation Systems and Their Intraverting Relations" (published with transcript in cooperation with Columbia University Press).
        text: 'Read Book'
        url: 'https://transcript-verlag.de/978-3-8376-7228-2/at-the-edge-of-ai/'
-       text: 'Grade: Summa Cum Laude'
+#       text: 'Grade: Summa Cum Laude'
    - area: M.Sc. Computer Science
      institution: Ludwig-Maximilians-Universität München (LMU Munich)
      date_end: 2022-09-29
      summary: |
      I explored the limitations of traditional Institutional Review Boards (IRBs) in adapting to new ethical challenges posed by fields like AI and human computation-based citizen science, and developed and validated the CAER system, a Collaborative and Adaptive Ethical Review system designed to be dynamically adapted to varying ethical considerations across research fields. The findings suggest that CAER offers a more user-centric, efficient, accessible, and adaptable approach to ethical review, necessary to ensure that AI research is conducted in an ethical manner.
-     text: 'Grade: Thesis grade: 1.0; overall grade: 1.2 (German grading scale)
+#     text: 'Grade: Thesis grade: 1.0; overall grade: 1.2 (German grading scale)
        Courses included:
        - Methods in Software Engineering and IT-Management
        - Artificial Intelligence for Games (Reinforcement Learning)
