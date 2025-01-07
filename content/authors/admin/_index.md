@@ -37,32 +37,34 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-0672-6633
 
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+ interests:
+   - Science and Technology Studies
+   - Anthropology of Technology & Digital Anthropology
+   - Artificial Intelligence
+   - Ethics of Technology & Moral Anthropology
+   - UX Research
 
-# education:
-#   - area: PhD Artificial Intelligence
-#     institution: Stanford University
-#     date_start: 2016-01-01
-#     date_end: 2020-12-31
-#     summary: |
-#       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-#     button:
-#       text: 'Read Thesis'
-#       url: 'https://example.com'
-#   - area: MEng Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     date_start: 2016-01-01
-#     date_end: 2020-12-31
-#     summary: |
-#       GPA: 3.8/4.0
-
-#       Courses included:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+ education:
+   - area: PhD Cultural Anthropology
+     institution: Ludwig-Maximilians-Universität München (LMU Munich)
+#    date_start: 2020-01-01
+     date_end: 2023-09-21
+     summary: |
+       Thesis on how human computation systems in the field of citizen science are formed in the interplay of various actors—such as developers, designers, researchers, and users—, in particular, how their human-technology relations unfold and continuously evolve alongside technological developments. Based on collaborative and ethnographic research I developed the analytical and reflective concept of intraversions for studying human-AI systems and to steer their development in directions that are beneficial to society. Published as "At the Edge of AI. Human Computation Systems and Their Intraverting Relations" (published with transcript in cooperation with Columbia University Press).
+       text: 'Read Book'
+       url: 'https://transcript-verlag.de/978-3-8376-7228-2/at-the-edge-of-ai/'
+       text: 'Grade: Summa Cum Laude'
+   - area: M.Sc. Computer Science
+     institution: Ludwig-Maximilians-Universität München (LMU Munich)
+     date_end: 2022-09-29
+     summary: |
+     I explored the limitations of traditional Institutional Review Boards (IRBs) in adapting to new ethical challenges posed by fields like AI and human computation-based citizen science, and developed and validated the CAER system, a Collaborative and Adaptive Ethical Review system designed to be dynamically adapted to varying ethical considerations across research fields. The findings suggest that CAER offers a more user-centric, efficient, accessible, and adaptable approach to ethical review, necessary to ensure that AI research is conducted in an ethical manner.
+     text: 'Grade: Thesis grade: 1.0; overall grade: 1.2 (German grading scale)
+       Courses included:
+       - Methods in Software Engineering and IT-Management
+       - Artificial Intelligence for Games (Reinforcement Learning)
+       - IT-Security and Introduction to Modern Cryptography
+       - Sketching with Hardware
 #   - area: BSc Artificial Intelligence
 #     institution: Massachusetts Institute of Technology
 #     date_start: 2016-01-01
