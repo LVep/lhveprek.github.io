@@ -50,9 +50,9 @@ education:
 #    date_start: 2020-01-01
      date_end: 2023-09-21
      summary: |
-       Thesis on how human computation systems in the field of citizen science are formed in the interplay of various actors—such as developers, designers, researchers, and users—, in particular, how their human-technology relations unfold and continuously evolve alongside technological developments. Based on collaborative and ethnographic research I developed the analytical and reflective concept of intraversions for studying human-AI systems and to steer their development in directions that are beneficial to society. Grade: Summa Cum Laude. Published as "At the Edge of AI. Human Computation Systems and Their Intraverting Relations" (published with transcript in cooperation with Columbia University Press).
-      text: 'Read Book'
-      url: 'https://transcript-verlag.de/978-3-8376-7228-2/at-the-edge-of-ai/'
+      Thesis on how human computation systems in the field of citizen science are formed in the interplay of various actors—such as developers, designers, researchers, and users—, in particular, how their human-technology relations unfold and continuously evolve alongside technological developments. Based on collaborative and ethnographic research I developed the analytical and reflective concept of intraversions for studying human-AI systems and to steer their development in directions that are beneficial to society. Grade: Summa Cum Laude. Published as "At the Edge of AI. Human Computation Systems and Their Intraverting Relations" (published with transcript in cooperation with Columbia University Press).
+     text: 'Read Book'
+     url: 'https://transcript-verlag.de/978-3-8376-7228-2/at-the-edge-of-ai/'
    - area: M.Sc. Computer Science
      institution: Ludwig-Maximilians-Universität München (LMU Munich)
      date_end: 2022-09-29
