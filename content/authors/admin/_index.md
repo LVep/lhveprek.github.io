@@ -34,8 +34,8 @@ profiles:
     label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=lOHYMTIAAAAJ&hl=de&oi=ao
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-0672-6633
+#  - icon: academicons/orcid
+#    url: https://orcid.org/0000-0002-0672-6633
 
  interests:
    - Science and Technology Studies
